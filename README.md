@@ -1,6 +1,8 @@
 # Bayesian stochastic imputation of discontinuous paleoenvironmental proxy records
 
-This repository contains code and materials for the article:[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs10651--025--00701--6-blue)](https://doi.org/10.1007/s10651-025-00701-6)
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs10651--025--00701--6-blue)](https://doi.org/10.1007/s10651-025-00701-6)
+
+This repository contains code and materials for the article:
 
 [**Ön, Z. B. (2026). Bayesian stochastic imputation of discontinuous paleoenvironmental proxy records: A case study from Lake Ohrid stable isotopes. Environmental and Ecological Statistics, 33, 129–148.**](https://doi.org/10.1007/s10651-025-00701-6)
 
